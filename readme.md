@@ -1,4 +1,4 @@
-Conta de membro da firma hackeada por robertinho plays
+<p align="center">Conta de membro da firma hackeada por robertinho plays</p>
 
 <!-- ```C++
 
