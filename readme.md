@@ -1,4 +1,4 @@
-<p align="center">Conta de membro da firma hackeada por robertinho plays</p>
+<p align="center">Conta de membro da firma hackeada por membro da Banca Labs, banca no topo firma no chão</p>
 
 <!-- ```C++
 
